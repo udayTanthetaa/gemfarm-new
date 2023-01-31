@@ -1,12 +1,12 @@
 [programs.localnet]
-gem_bank = "DkBUifZDAdesnoLD8Z4ukYN1nLJwqqnCeaaXkdtn4Pyj"
-gem_farm = "5tG2S666u8AZ5Dk3dfj1CKGNgkkuPDDikEqD7oN8DG96"
+gem_bank = "B125ajDSeCHWeSKdLUsBD6keAuZjEaKfo19PpdjwVDz4"
+gem_farm = "GYxFaAG23WQ96hL9KZA3XPJGhwbZWA7JnAJxDbWWRgw3"
 
 [registry]
 url = "https://anchor.projectserum.com"
 
 [provider]
-cluster = "devnet"
+cluster = "mainnet"
 wallet = "./my-keypair.json"
 
 [scripts]

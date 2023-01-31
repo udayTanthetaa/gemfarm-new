@@ -5,8 +5,8 @@ export * from './gem-farm';
 export * from './gem-common';
 
 export const GEM_BANK_PROG_ID = new PublicKey(
-  'DkBUifZDAdesnoLD8Z4ukYN1nLJwqqnCeaaXkdtn4Pyj'
+  'B125ajDSeCHWeSKdLUsBD6keAuZjEaKfo19PpdjwVDz4'
 );
 export const GEM_FARM_PROG_ID = new PublicKey(
-  '5tG2S666u8AZ5Dk3dfj1CKGNgkkuPDDikEqD7oN8DG96'
+  'GYxFaAG23WQ96hL9KZA3XPJGhwbZWA7JnAJxDbWWRgw3'
 );
